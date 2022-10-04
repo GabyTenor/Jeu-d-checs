@@ -17,7 +17,8 @@ namespace Echecs_Alpha_1._0
                                                         { "a1", "b1", "c1", "d1", "e1", "f1", "g1", "h1"} 
                                                                                                             };
 
-            string[,] plateauPions = new string[8, 8];
+
+            
         }
     }
 }
